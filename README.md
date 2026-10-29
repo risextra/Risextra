@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Risextra - Where Brand, Content & Technology Align" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D00,25:FF7A3D,50:FFB347,75:00C2FF,100:A855F7&height=220&section=header&text=Risextra&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Where%20Brand,%20Content%20%26%20Technology%20Align&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=1000&color=FF4D00&center=true&vCenter=true&width=800&lines=%3E+whoami;%3E+Risextra+%F0%9F%9A%80;%3E+Branding+%7C+Content+%7C+Technology;%3E+Building+brands+since+2023;%3E+Real+results.+Real+growth." alt="Risextra typing" />
 
@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/🏢%20Since-2023-A855F7?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/🎯%20Focus-Brand%20%26%20Growth-FF4D00?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/🏆%20Status-Building%20Daily-FFA500?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/followers/risextra?style=for-the-badge&logo=github&color=00C2FF&labelColor=0D1117" />
 </p>
 
 <p>
@@ -19,21 +18,11 @@
   <a href="https://www.youtube.com/@risextra"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" /></a>
 </p>
 
-<img src="./assets/ribbon.svg" width="100%" alt="Branding, Content, Technology, Video Editing, Campaign Design, Web and Apps, SaaS, Automation" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
 
 ---
-
-## ⚡ Boot Sequence
-
-<div align="center">
-
-<img src="./assets/terminal.svg" width="85%" alt="Risextra terminal" />
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
 
 ## 💫 About Risextra
 
@@ -80,21 +69,9 @@ motto: "Real results. Real growth."
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
-## 🧬 The Risextra Formula
-
-<div align="center">
-
-| 🎨 **BRAND** | ➕ | 🎬 **CONTENT** | ➕ | 💻 **TECHNOLOGY** | 🟰 | 🚀 **GROWTH** |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Identity that sticks | | Stories that captivate | | Builds that scale | | Real results |
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
-
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -131,7 +108,7 @@ motto: "Real results. Real growth."
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🚀 Our Services
 
@@ -176,7 +153,7 @@ motto: "Real results. Real growth."
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
 ## 🤝 Who We Work With
 
@@ -209,57 +186,40 @@ motto: "Real results. Real growth."
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
-
-## 🗺️ How We Work
-
-<div align="center">
-
-```mermaid
-flowchart LR
-    A([💬 Brief]) --> B([🧠 Strategy])
-    B --> C([🎨 Brand & Design])
-    C --> D([💻 Build])
-    D --> E([🎬 Content])
-    E --> F([🚀 Launch])
-    F --> G([📈 Grow])
-    G -.feedback.-> B
-    style A fill:#FF4D00,stroke:#FF4D00,color:#fff
-    style B fill:#FF7A3D,stroke:#FF7A3D,color:#fff
-    style C fill:#FFB347,stroke:#FFB347,color:#000
-    style D fill:#00C2FF,stroke:#00C2FF,color:#000
-    style E fill:#7C8CFF,stroke:#7C8CFF,color:#fff
-    style F fill:#A855F7,stroke:#A855F7,color:#fff
-    style G fill:#22c55e,stroke:#22c55e,color:#fff
-```
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=risextra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF4D00&icon_color=FFD700&text_color=FFFFFF&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risextra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF&border_radius=15"/>
+
+<br/><br/>
+
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=risextra&theme=radical&hide_border=true&background=0D1117&stroke=FF4D00&ring=00C2FF&fire=FFA500&currStreakLabel=FFD700&border_radius=15"/>
 
 <br/><br/>
 
-<img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=risextra&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=risextra&theme=react-dark&bg_color=0D1117&color=FF4D00&line=00C2FF&point=FFD700&area=true&hide_border=true&radius=15" alt="Activity Graph"/>
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/risextra/risextra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🏆 Why Risextra
 
@@ -276,7 +236,7 @@ flowchart LR
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
 ## 🌟 Philosophy
 
@@ -286,7 +246,7 @@ flowchart LR
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 💬 Testimonial
 
@@ -298,7 +258,7 @@ flowchart LR
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
 ## 📫 Let's Connect
 
